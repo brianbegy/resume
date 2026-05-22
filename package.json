@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume repository",
+  "packageManager": "pnpm@11",
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "scripts": {
+    "format": "prettier --write ."
+  }
+}
