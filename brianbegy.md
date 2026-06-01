@@ -16,7 +16,7 @@ Staff-level software engineer specializing in AI-enabled developer platforms, di
 
 **October 2025 – Present**
 
-120 year-old publicly traded commercial real estate firm offering brokerage, transaction support, and workplace strategy services.
+100-year-old publicly traded commercial real estate firm offering brokerage, transaction support, and workplace strategy services.
 
 - Led development of Newlitic Enterprise, a greenfield platform supporting enterprise commercial real estate clients with global portfolios.
 - Built AI-enabled engineering workflows using Claude, Cursor, and GitHub Copilot, including automated code review processes and development standards.
@@ -35,7 +35,7 @@ Staff-level software engineer specializing in AI-enabled developer platforms, di
 Startup focused on LLM-powered knowledge retrieval and later agentic coding systems.
 
 - Owned the Charlie API layer responsible for consuming and normalizing events from GitHub, Linear, and Slack, enabling real-time interaction between developers and the Charlie coding agent.
-- Wrote the "Hey Charlie" experience in Github, Linear, and Slack.
+- Wrote the "Hey Charlie" experience in GitHub, Linear, and Slack.
 - Implemented telemetry, tracing, and retries to improve reliability, latency, and fault recovery.
 - Pre-pivot, developed Temporal-based pipelines to crawl and index 10,000+ podcast episodes monthly, integrating OpenAI for entity extraction and Qdrant for vector-based retrieval.
 
@@ -78,7 +78,7 @@ Vista Equity Partners–backed Employee Experience platform serving over 1M mont
 
 **Mar 2016 – Mar 2018**
 
-- Built a Clojure-based event-sourcing microservice enabling near–real-time loan tracking.
+- Built a Clojure-based event-sourcing microservice enabling near-real-time loan tracking.
 - Developed .NET services to handle bulk mortgage updates for investor sale.
 - Influenced adoption of SaaS platform strategy through technical evaluation work.
 
