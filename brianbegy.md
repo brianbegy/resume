@@ -47,11 +47,11 @@ Startup focused on LLM-powered knowledge retrieval and later agentic coding syst
 
 ### Senior Software Architect
 
-**Jan 2021 – Apr 2024**
+**January 2021 – April 2024**
 
 ### Team Lead
 
-**Jul 2019 – Jan 2021**
+**July 2019 – January 2021**
 
 Vista Equity Partners–backed Employee Experience platform serving over 1M monthly users.
 
@@ -69,14 +69,14 @@ Vista Equity Partners–backed Employee Experience platform serving over 1M mont
 
 ### Grubhub — Engineering Team Lead
 
-**May 2018 – Aug 2018**
+**May 2018 – August 2018**
 
 - Led development of the Positouch point-of-sale integration prototype.
 - Managed a 5-person offshore development team working in Java Spring and .NET.
 
 ### Guaranteed Rate — Senior Software Engineer
 
-**Mar 2016 – Mar 2018**
+**March 2016 – March 2018**
 
 - Built a Clojure-based event-sourcing microservice enabling near-real-time loan tracking.
 - Developed .NET services to handle bulk mortgage updates for investor sale.
@@ -84,7 +84,7 @@ Vista Equity Partners–backed Employee Experience platform serving over 1M mont
 
 ### JumpForward — CTO
 
-**Mar 2015 – Feb 2016**
+**March 2015 – February 2016**
 
 - Managed a blended 9-person engineering team across onshore and offshore development.
 - Implemented CI/CD, code review, and automated deployment pipelines.
@@ -95,11 +95,11 @@ Vista Equity Partners–backed Employee Experience platform serving over 1M mont
 
 ### VP of Engineering
 
-**Aug 2011 – May 2015**
+**August 2011 – May 2015**
 
 ### Software Architect
 
-**Sep 2010 – Aug 2011**
+**September 2010 – August 2011**
 
 Angel-funded employee discount platform later acquired by Rally Health.
 
